@@ -12,5 +12,8 @@
   "dependencies": {
     "@ulvimemmeedov/expressjsplus": "^1.0.9",
     "nodemon": "^2.0.12"
+  },
+  "devDependencies": {
+    "@types/node": "^16.4.10"
   }
 }
